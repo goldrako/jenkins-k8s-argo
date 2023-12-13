@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: goldrako/myhello
+        image: goldrako/myhello:7
         ports:
         - containerPort: 8080
